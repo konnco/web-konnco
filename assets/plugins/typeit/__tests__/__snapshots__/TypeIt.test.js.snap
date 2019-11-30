@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Initial queue only contains startDelay pause. 1`] = `
+_default {
+  "add": [Function],
+  "delete": [Function],
+  "executed": Array [],
+  "insert": [Function],
+  "reset": [Function],
+  "waiting": Array [
+    Array [
+      [Function],
+      250,
+    ],
+  ],
+}
+`;
+
+exports[`Returns an object with expected properties. 1`] = `
+Array [
+  "break",
+  "delete",
+  "destroy",
+  "empty",
+  "exec",
+  "freeze",
+  "go",
+  "instances",
+  "is",
+  "options",
+  "pause",
+  "reset",
+  "type",
+  "unfreeze",
+]
+`;

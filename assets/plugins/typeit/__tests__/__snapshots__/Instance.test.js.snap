@@ -1,0 +1,279 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`addSplitPause() Adds different even split pause around strings. 1`] = `
+Array [
+  Array [
+    [Function],
+    250,
+  ],
+  Array [
+    [Function],
+    "A",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "B",
+  ],
+  Array [
+    [Function],
+    "C",
+    Object {
+      "isLast": true,
+    },
+  ],
+  Array [
+    [Function],
+    500,
+  ],
+  Array [
+    [Function],
+    <br />,
+  ],
+  Array [
+    [Function],
+    500,
+  ],
+  Array [
+    [Function],
+    "E",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "F",
+  ],
+  Array [
+    [Function],
+    "G",
+    Object {
+      "isLast": true,
+    },
+  ],
+]
+`;
+
+exports[`addSplitPause() Adds even split pause around strings. 1`] = `
+Array [
+  Array [
+    [Function],
+    250,
+  ],
+  Array [
+    [Function],
+    "A",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "B",
+  ],
+  Array [
+    [Function],
+    "C",
+    Object {
+      "isLast": true,
+    },
+  ],
+  Array [
+    [Function],
+    375,
+  ],
+  Array [
+    [Function],
+    <br />,
+  ],
+  Array [
+    [Function],
+    375,
+  ],
+  Array [
+    [Function],
+    "E",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "F",
+  ],
+  Array [
+    [Function],
+    "G",
+    Object {
+      "isLast": true,
+    },
+  ],
+]
+`;
+
+exports[`addSplitPause() Adds split pause around strings when value is array. 1`] = `
+Array [
+  Array [
+    [Function],
+    250,
+  ],
+  Array [
+    [Function],
+    "A",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "B",
+  ],
+  Array [
+    [Function],
+    "C",
+    Object {
+      "isLast": true,
+    },
+  ],
+  Array [
+    [Function],
+    100,
+  ],
+  Array [
+    [Function],
+    <br />,
+  ],
+  Array [
+    [Function],
+    500,
+  ],
+  Array [
+    [Function],
+    "E",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "F",
+  ],
+  Array [
+    [Function],
+    "G",
+    Object {
+      "isLast": true,
+    },
+  ],
+]
+`;
+
+exports[`addSplitPause() Inserts split pause around multiple strings. 1`] = `
+Array [
+  Array [
+    [Function],
+    250,
+  ],
+  Array [
+    [Function],
+    "A",
+    Object {
+      "isFirst": true,
+    },
+    Object {
+      "isLast": true,
+    },
+  ],
+  Array [
+    [Function],
+    375,
+  ],
+  Array [
+    [Function],
+    <br />,
+  ],
+  Array [
+    [Function],
+    375,
+  ],
+  Array [
+    [Function],
+    "B",
+    Object {
+      "isFirst": true,
+    },
+    Object {
+      "isLast": true,
+    },
+  ],
+  Array [
+    [Function],
+    375,
+  ],
+  Array [
+    [Function],
+    <br />,
+  ],
+  Array [
+    [Function],
+    375,
+  ],
+  Array [
+    [Function],
+    "C",
+    Object {
+      "isFirst": true,
+    },
+    Object {
+      "isLast": true,
+    },
+  ],
+  Array [
+    [Function],
+    375,
+  ],
+  Array [
+    [Function],
+    <br />,
+  ],
+  Array [
+    [Function],
+    375,
+  ],
+  Array [
+    [Function],
+    "D",
+    Object {
+      "isFirst": true,
+    },
+    Object {
+      "isLast": true,
+    },
+  ],
+  Array [
+    [Function],
+    375,
+  ],
+  Array [
+    [Function],
+    <br />,
+  ],
+  Array [
+    [Function],
+    375,
+  ],
+  Array [
+    [Function],
+    "E",
+    Object {
+      "isFirst": true,
+    },
+    Object {
+      "isLast": true,
+    },
+  ],
+]
+`;

@@ -1,0 +1,1237 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`html option It should leave strings be when option is disabled. 1`] = `
+Array [
+  Array [
+    [Function],
+    250,
+  ],
+  Array [
+    [Function],
+    "T",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "a",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "<",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    "r",
+  ],
+  Array [
+    [Function],
+    "o",
+  ],
+  Array [
+    [Function],
+    "n",
+  ],
+  Array [
+    [Function],
+    "g",
+  ],
+  Array [
+    [Function],
+    ">",
+  ],
+  Array [
+    [Function],
+    "a",
+  ],
+  Array [
+    [Function],
+    "n",
+  ],
+  Array [
+    [Function],
+    "o",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "e",
+  ],
+  Array [
+    [Function],
+    "r",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "B",
+  ],
+  Array [
+    [Function],
+    "O",
+  ],
+  Array [
+    [Function],
+    "L",
+  ],
+  Array [
+    [Function],
+    "D",
+  ],
+  Array [
+    [Function],
+    "<",
+  ],
+  Array [
+    [Function],
+    "/",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    "r",
+  ],
+  Array [
+    [Function],
+    "o",
+  ],
+  Array [
+    [Function],
+    "n",
+  ],
+  Array [
+    [Function],
+    "g",
+  ],
+  Array [
+    [Function],
+    ">",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    "r",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "n",
+  ],
+  Array [
+    [Function],
+    "g",
+  ],
+  Array [
+    [Function],
+    ".",
+    Object {
+      "isLast": true,
+    },
+  ],
+]
+`;
+
+exports[`html option It should queue strings as HTML by default. 1`] = `
+Array [
+  Array [
+    [Function],
+    250,
+  ],
+  Array [
+    [Function],
+    "T",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "a",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "B",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "O",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "L",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "D",
+    },
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    "r",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "n",
+  ],
+  Array [
+    [Function],
+    "g",
+  ],
+  Array [
+    [Function],
+    ".",
+    Object {
+      "isLast": true,
+    },
+  ],
+]
+`;
+
+exports[`html option It should queue strings as HTML when explicitly set. 1`] = `
+Array [
+  Array [
+    [Function],
+    250,
+  ],
+  Array [
+    [Function],
+    "T",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "a",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "a",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "n",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "o",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "t",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "h",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "e",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "r",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": " ",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "B",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "O",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "L",
+    },
+  ],
+  Array [
+    [Function],
+    Object {
+      "ancestorTree": Array [
+        "STRONG",
+      ],
+      "attributes": Array [],
+      "content": "D",
+    },
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    "r",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "n",
+  ],
+  Array [
+    [Function],
+    "g",
+  ],
+  Array [
+    [Function],
+    ".",
+    Object {
+      "isLast": true,
+    },
+  ],
+]
+`;
+
+exports[`startDelete option. Correctly adds strings also defined by type() companion method. 1`] = `
+Array [
+  Array [
+    [Function],
+    250,
+  ],
+  Array [
+    [Function],
+    "T",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "o",
+  ],
+  Array [
+    [Function],
+    "u",
+  ],
+  Array [
+    [Function],
+    "l",
+  ],
+  Array [
+    [Function],
+    "d",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "b",
+  ],
+  Array [
+    [Function],
+    "e",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    "y",
+  ],
+  Array [
+    [Function],
+    "p",
+  ],
+  Array [
+    [Function],
+    "e",
+  ],
+  Array [
+    [Function],
+    "d",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "f",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "r",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    ".",
+    Object {
+      "isLast": true,
+    },
+  ],
+  Array [
+    [Function],
+    375,
+  ],
+  Array [
+    [Function],
+    <br />,
+  ],
+  Array [
+    [Function],
+    375,
+  ],
+  Array [
+    [Function],
+    "T",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "a",
+  ],
+  Array [
+    [Function],
+    "n",
+  ],
+  Array [
+    [Function],
+    "o",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "e",
+  ],
+  Array [
+    [Function],
+    "r",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    "r",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "n",
+  ],
+  Array [
+    [Function],
+    "g",
+  ],
+  Array [
+    [Function],
+    ".",
+    Object {
+      "isLast": true,
+    },
+  ],
+  Array [
+    [Function],
+    "A",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "n",
+  ],
+  Array [
+    [Function],
+    "d",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "f",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "n",
+  ],
+  Array [
+    [Function],
+    "a",
+  ],
+  Array [
+    [Function],
+    "l",
+  ],
+  Array [
+    [Function],
+    "l",
+  ],
+  Array [
+    [Function],
+    "y",
+  ],
+  Array [
+    [Function],
+    ",",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "a",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "r",
+  ],
+  Array [
+    [Function],
+    "d",
+  ],
+  Array [
+    [Function],
+    ".",
+    Object {
+      "isLast": true,
+    },
+  ],
+]
+`;
+
+exports[`startDelete option. Makes hard-coded string the first string to be typed. 1`] = `
+Array [
+  Array [
+    [Function],
+    250,
+  ],
+  Array [
+    [Function],
+    "T",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "o",
+  ],
+  Array [
+    [Function],
+    "u",
+  ],
+  Array [
+    [Function],
+    "l",
+  ],
+  Array [
+    [Function],
+    "d",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "b",
+  ],
+  Array [
+    [Function],
+    "e",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    "y",
+  ],
+  Array [
+    [Function],
+    "p",
+  ],
+  Array [
+    [Function],
+    "e",
+  ],
+  Array [
+    [Function],
+    "d",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "f",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "r",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    ".",
+    Object {
+      "isLast": true,
+    },
+  ],
+]
+`;
+
+exports[`startDelete option. Sets both hard-coded and option-defined strings in correct order. 1`] = `
+Array [
+  Array [
+    [Function],
+    250,
+  ],
+  Array [
+    [Function],
+    "T",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "o",
+  ],
+  Array [
+    [Function],
+    "u",
+  ],
+  Array [
+    [Function],
+    "l",
+  ],
+  Array [
+    [Function],
+    "d",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "b",
+  ],
+  Array [
+    [Function],
+    "e",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    "y",
+  ],
+  Array [
+    [Function],
+    "p",
+  ],
+  Array [
+    [Function],
+    "e",
+  ],
+  Array [
+    [Function],
+    "d",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "f",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "r",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    ".",
+    Object {
+      "isLast": true,
+    },
+  ],
+  Array [
+    [Function],
+    375,
+  ],
+  Array [
+    [Function],
+    <br />,
+  ],
+  Array [
+    [Function],
+    375,
+  ],
+  Array [
+    [Function],
+    "T",
+    Object {
+      "isFirst": true,
+    },
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "a",
+  ],
+  Array [
+    [Function],
+    "n",
+  ],
+  Array [
+    [Function],
+    "o",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    "h",
+  ],
+  Array [
+    [Function],
+    "e",
+  ],
+  Array [
+    [Function],
+    "r",
+  ],
+  Array [
+    [Function],
+    " ",
+  ],
+  Array [
+    [Function],
+    "s",
+  ],
+  Array [
+    [Function],
+    "t",
+  ],
+  Array [
+    [Function],
+    "r",
+  ],
+  Array [
+    [Function],
+    "i",
+  ],
+  Array [
+    [Function],
+    "n",
+  ],
+  Array [
+    [Function],
+    "g",
+  ],
+  Array [
+    [Function],
+    ".",
+    Object {
+      "isLast": true,
+    },
+  ],
+]
+`;

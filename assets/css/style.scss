@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.color-brand-primary {
+    color: #e86b18 !important;
+    transition: ease all .5s;
+}
+
+.section-line {
+    width: 70px;
+    height: 4px;
+    opacity: 0.6;
+    background-color: #000000;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    &.white {
+        background-color: white;
+    }
+}
+
+.section {
+    .introduction {
+        .intro-text {
+            font-size: 36px;
+        }
+    }
+
+    .testimonials {
+        .testimonail-name {
+            opacity: 0.8;
+            font-size: 12px;
+            color: rgba(0, 0, 0, 0.8);
+        }
+    }
+}
+
+.btn {
+    border-radius: 100px;
+}
+
+.btn-outline-brand {
+    transition: ease all .5s;
+    color: #e86b18;
+    border-color: #e86b18;
+    background: rgba($color: #e86b18, $alpha: 0.1);
+    padding-left: 18px !important;
+    padding-right: 18px !important;
+
+    &.fill{
+        background: #e86b18;
+        color: white;
+    }
+
+    &.focus,
+    &:focus {
+        box-shadow: 0 0 0 0.2rem rgba(232, 107, 24, .5);
+    }
+
+    &:not(:disabled):not(.disabled).active,
+    &:not(:disabled):not(.disabled):active,
+    .show>&.dropdown-toggle,
+    &:hover {
+        color: #fff;
+        background-color: #e86b18;
+        border-color: #e86b18;
+    }
+
+    &.white {
+        border-color: #fff;
+        background: rgba($color: #fff, $alpha: 0.1);
+        color: #fff;
+    }
+}
+
+#fp-nav {
+    &.white {
+        a {
+            &.active {
+                span {
+                    background: #fff;
+                }
+            }
+
+            span {
+                border: 2px solid #fff;
+            }
+        }
+    }
+
+    ul {
+        li {
+            a {
+                &.active {
+                    span {
+                        background: #e86b18;
+                    }
+                }
+
+                span {
+                    border: 2px solid #e86b18;
+                    width: 12px;
+                    height: 12px;
+                    margin: -2px 0 0 -2px !important;
+                    background: transparent;
+                }
+            }
+        }
+    }
+}
+
+.navbar {
+    .navbar-brand img {
+        transition: ease all .5s;
+    }
+
+    &.white {
+        .color-brand-primary {
+            color: #fff !important;
+        }
+
+        .navbar-brand {
+            img {
+                -webkit-filter: brightness(0) invert(1);
+                filter: brightness(0) invert(1);
+            }
+        }
+
+        .btn-outline-brand {
+            border-color: #fff;
+            background: rgba($color: #fff, $alpha: 0.1);
+            color: #fff;
+        }
+    }
+
+    .nav-item {
+        .nav-link {
+            margin-left: 20px;
+            margin-right: 20px;
+            font-size: 15px;
+        }
+    }
+}
